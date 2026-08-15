@@ -261,82 +261,19 @@
 
 ---
 
-# 🚀 Featured Project
-
-<div align="center">
-
-## 🏠 HomeCheck
-
-### *A practical mobile project built to solve a real-world problem.*
-
-</div>
-
-HomeCheck is a personal mobile application concept focused on detecting **home arrival and departure events** and triggering notifications.
-
-### 🎯 Project Goal
-
-Build something practical while exploring:
-
-- 📍 Location-based detection
-- 🏠 Geofencing concepts
-- 📱 Mobile application development
-- 🔔 Event-based notifications
-- 🔗 System integration
-- 🧠 Real-world automation
-
-### 🔄 Application Concept
-
-<div align="center">
-
-```text
-                         📱 HOME CHECK
-                              │
-                              ▼
-                       📍 LOCATION
-                        DETECTION
-                              │
-                              ▼
-                         🏠 GEOFENCE
-                              │
-                 ┌────────────┴────────────┐
-                 │                         │
-                 ▼                         ▼
-          🚪 LEAVING HOME             🏡 RETURNING
-                 │                         │
-                 ▼                         ▼
-          🔔 EVENT TRIGGER          🔔 EVENT TRIGGER
-                 │                         │
-                 └────────────┬────────────┘
-                              │
-                              ▼
-                       📩 NOTIFICATION
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-> **Building projects isn't just about writing code — it's about solving real problems.**
-
-</div>
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Piyush-Kumar11">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false" alt="Piyush's GitHub Stats" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Piyush-Kumar11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false" alt="Piyush's GitHub Stats" width="49%"/>
 
 </a>
 
 <a href="https://github.com/Piyush-Kumar11">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Kumar11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Piyush's Top Languages" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Piyush-Kumar11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Piyush's Top Languages" width="49%"/>
 
 </a>
 
@@ -386,7 +323,7 @@ Build something practical while exploring:
 
 <a href="https://github.com/Piyush-Kumar11">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Piyush-Kumar11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="Piyush's GitHub Trophies" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=Piyush-Kumar11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="Piyush's GitHub Trophies" width="100%"/>
 
 </a>
 
@@ -460,35 +397,9 @@ Build something practical while exploring:
 
 <br>
 
-```text
-             ┌──────────┐
-             │  LEARN   │
-             └────┬─────┘
-                  ↓
-             ┌──────────┐
-             │  BUILD   │
-             └────┬─────┘
-                  ↓
-             ┌──────────┐
-             │  BREAK   │
-             └────┬─────┘
-                  ↓
-             ┌──────────┐
-             │  DEBUG   │
-             └────┬─────┘
-                  ↓
-             ┌──────────┐
-             │ IMPROVE  │
-             └────┬─────┘
-                  ↓
-             ┌──────────┐
-             │  REPEAT  │
-             └────┬─────┘
-                  │
-                  └───────────────🔄
-```
+<img src="https://img.shields.io/badge/1-LEARN-36BCF7?style=for-the-badge&logoColor=white" alt="Learn"/>&nbsp;➜&nbsp;<img src="https://img.shields.io/badge/2-BUILD-0e75b6?style=for-the-badge&logoColor=white" alt="Build"/>&nbsp;➜&nbsp;<img src="https://img.shields.io/badge/3-BREAK-FFA116?style=for-the-badge&logoColor=black" alt="Break"/>&nbsp;➜&nbsp;<img src="https://img.shields.io/badge/4-DEBUG-E63946?style=for-the-badge&logoColor=white" alt="Debug"/>&nbsp;➜&nbsp;<img src="https://img.shields.io/badge/5-IMPROVE-2EC866?style=for-the-badge&logoColor=white" alt="Improve"/>&nbsp;➜&nbsp;<img src="https://img.shields.io/badge/6-REPEAT-9D4EDD?style=for-the-badge&logoColor=white" alt="Repeat"/>&nbsp;🔄
 
-<br>
+<br><br>
 
 ### **Code. Debug. Learn. Repeat.**
 
