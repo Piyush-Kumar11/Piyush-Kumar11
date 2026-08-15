@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/GitHub-Piyush--Kumar11-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-<a href="https://linkedin.com/in/piyush2tiger">
+<a href="https://linkedin.com/in/piyush2k">
 <img src="https://img.shields.io/badge/LinkedIn-Piyush%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
