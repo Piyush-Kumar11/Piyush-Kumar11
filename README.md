@@ -119,9 +119,13 @@ A personal mobile project focused on location-based home arrival/departure notif
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=piyush-kumar11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<a href="https://github.com/Piyush-Kumar11">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Piyush's GitHub Stats"/>
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-kumar11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<a href="https://github.com/Piyush-Kumar11">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Kumar11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Piyush's Top Languages"/>
+</a>
 
 </div>
 
@@ -129,7 +133,7 @@ A personal mobile project focused on location-based home arrival/departure notif
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=piyush-kumar11&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Piyush-Kumar11&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Piyush's GitHub Streak"/>
 
 </div>
 
@@ -139,7 +143,11 @@ A personal mobile project focused on location-based home arrival/departure notif
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piyush-Kumar11/Piyush-Kumar11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Piyush-Kumar11/Piyush-Kumar11/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Piyush-Kumar11/Piyush-Kumar11/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%">
+</picture>
 
 </div>
 
@@ -149,7 +157,11 @@ A personal mobile project focused on location-based home arrival/departure notif
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=piyush-kumar11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<a href="https://github.com/Piyush-Kumar11">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Piyush-Kumar11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="Piyush's GitHub Trophies"/>
+
+</a>
 
 </div>
 
